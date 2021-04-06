@@ -16,7 +16,7 @@ def score(game_score):
 
 def binary(number):
     # As a predict we take always the middle of the interval.
-    # In depend of the comparison the (lower) limit  or the (upper) limit.'''
+    # In depend of the comparison the (lower) limit  or the (upper) limit.
     lower = 1
     upper = 101
     count = 1
